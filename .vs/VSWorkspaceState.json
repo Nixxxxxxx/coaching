@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\css"
+    "\\css",
+    "\\img",
+    "\\scss"
   ],
-  "SelectedNode": "\\coaches.html",
+  "SelectedNode": "\\css\\business-casual.css",
   "PreviewInSolutionExplorer": false
 }
