@@ -254,3 +254,20 @@ p {
 .font-weight-light {
   font-weight: 100 !important;
 }
+
+
+#fortbildungList ol li a:link, #fortbildungList ol li a:visited {
+    color: black;
+}
+
+#fortbildungList ol li a:link {
+    transition: transform 1s;
+}
+
+#fortbildungList ol li:hover, #fortbildungList ol li a:hover {
+    color: skyblue;
+}
+
+#coachesFortbildug li a:link, #coachesFortbildug li a:visited {
+    color:darkslategrey;
+}
